@@ -21,4 +21,8 @@ list of the traffic signs :
 2.Open the folder containing this folder  
 3.Run Traffic_sign_detection.ipynb  
 
-# Dataset   
+# Dataset
+You can find our meticulously curated dataset in the dedicated "Dataset" folder within this repository. Our dataset boasts a comprehensive collection of 1027 meticulously labeled images for training purposes, alongside an additional 219 images reserved for validation purposes.
+Each image within the dataset has been carefully and accurately labeled, ensuring that every traffic sign is precisely annotated. This dedication to precision empowers our dataset to serve as a reliable foundation for training and validating our traffic sign detection model.
+Your engagement with the dataset is integral to contributing to the development of accurate and efficient traffic sign detection capabilities. Should you have any inquiries or require further information about our dataset, please don't hesitate to reach out.  
+# Accuracy 
