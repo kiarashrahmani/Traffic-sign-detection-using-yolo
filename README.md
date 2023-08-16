@@ -13,4 +13,10 @@ list of the traffic signs :
 9.Bus lane  
 10.Pedestrian crossing
 
-Dataset   
+# How to run:
+
+1.Open Google colab in your browser
+2.Open the folder containing this folder
+3.Run Traffic_sign_detection.ipynb
+
+# Dataset   
