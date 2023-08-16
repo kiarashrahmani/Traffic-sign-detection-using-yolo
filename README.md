@@ -15,8 +15,8 @@ list of the traffic signs :
 
 # How to run:
 
-1.Open Google colab in your browser
-2.Open the folder containing this folder
-3.Run Traffic_sign_detection.ipynb
+1.Open Google colab in your browser  
+2.Open the folder containing this folder  
+3.Run Traffic_sign_detection.ipynb  
 
 # Dataset   
