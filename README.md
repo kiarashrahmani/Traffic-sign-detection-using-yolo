@@ -11,4 +11,6 @@ list of the traffic signs :
 7.No left turn  
 8.Speed limit  
 9.Bus lane  
-10.Pedestrian crossing  
+10.Pedestrian crossing
+
+Dataset   
