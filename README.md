@@ -2,7 +2,7 @@
 in this project we used Yolo to detect 10 traffic signs. 
 list of the traffic signs :
 
-1.Stop
+1.Stop   
 2.No pedestrian crossing
 3.No parking
 4.Parking
