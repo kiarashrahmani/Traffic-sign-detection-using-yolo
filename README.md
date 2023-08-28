@@ -27,3 +27,5 @@ Each image within the dataset has been carefully and accurately labeled, ensurin
 Your engagement with the dataset is integral to contributing to the development of accurate and efficient traffic sign detection capabilities. Should you have any inquiries or require further information about our dataset, please don't hesitate to reach out.  
 # Accuracy 
 <img src="https://github.com/kiarashrahmani/Traffic-sign-detection-using-yolo/blob/main/Result.JPG">  
+# License
+This project is licensed under the MIT License.
