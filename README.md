@@ -26,7 +26,12 @@ You can find our meticulously curated dataset in the dedicated "Dataset" folder 
 Each image within the dataset has been carefully and accurately labeled, ensuring that every traffic sign is precisely annotated. This dedication to precision empowers our dataset to serve as a reliable foundation for training and validating our traffic sign detection model.
 Your engagement with the dataset is integral to contributing to the development of accurate and efficient traffic sign detection capabilities. Should you have any inquiries or require further information about our dataset, please don't hesitate to reach out.  
 # Accuracy 
-<img src="https://github.com/kiarashrahmani/Traffic-sign-detection-using-yolo/blob/main/Result.JPG">   
+<img src="https://github.com/kiarashrahmani/Traffic-sign-detection-using-yolo/blob/main/Result.JPG">  
 
+# Collaborators
+This project was a collaborative effort between Kiarash Rahmani and Ahmad Asadi. We worked together to develop a robust traffic sign detection model using the YOLO framework. Our project leverages YOLO's real-time object detection capabilities to address the dynamic and time-sensitive nature of traffic environments.
+
+- [Kiarash Rahmani](https://github.com/kiarashrahmani)
+- [Ahmad Asadi](https://github.com/BlackAssassinCoder)
 # License
 This project is licensed under the MIT License.
