@@ -29,9 +29,9 @@ Your engagement with the dataset is integral to contributing to the development 
 <img src="https://github.com/kiarashrahmani/Traffic-sign-detection-using-yolo/blob/main/Result.JPG">  
 
 # Collaborators
-This project was a collaborative effort between Kiarash Rahmani and Ahmad Asadi. We worked together to develop a robust traffic sign detection model using the YOLO framework. Our project leverages YOLO's real-time object detection capabilities to address the dynamic and time-sensitive nature of traffic environments.
+This project was a collaborative effort between Ahmad Asadi and Kiarash Rahmani . We worked together to develop a robust traffic sign detection model using the YOLO framework. Our project leverages YOLO's real-time object detection capabilities to address the dynamic and time-sensitive nature of traffic environments.
 
-- [Kiarash Rahmani](https://github.com/kiarashrahmani)
 - [Ahmad Asadi](https://github.com/BlackAssassinCoder)
+- [Kiarash Rahmani](https://github.com/kiarashrahmani)
 # License
 This project is licensed under the MIT License.
